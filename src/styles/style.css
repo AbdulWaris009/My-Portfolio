@@ -224,10 +224,7 @@ select {
 /* Banner Style */
 /* =========================================================== */
 /* Temp layout */
-.temp-layout{
-  margin-top: 40px;
-  height: 100%;
-}
+
 .banner{
   z-index: 999;
   position: relative;

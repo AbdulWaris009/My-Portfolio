@@ -1,3 +1,4 @@
+import Image from "next/image";
 
 export default async function Home() {
 
@@ -6,7 +7,7 @@ export default async function Home() {
       <section className="home section" id="home">
         <div className="container">
           <div className="intro">
-            <img
+            <Image
               src="/imgs/image4.jpeg"
               alt="not found"
               className="shadow-dark"

@@ -18,8 +18,9 @@ const About: NextPage = () => {
                     I am Abdul Waris <span>Mern Stack Developer</span>
                   </h2>
                   <p>
-                    Hi! My name is Abdul Waris. i am a  proficient MERN Stack Developer with expertise in building responsive web applications, creating user-friendly interfaces, and developing secure backend systems. Skilled in MongoDB, Express.js, React, and Node.js, and  passionate about delivering innovative and scalable solutions.
-                  </p>
+  Hi! My name is Abdul Waris. I am a proficient MERN Stack Developer with expertise in building responsive web applications, creating user-friendly interfaces, and developing secure backend systems. Skilled in MongoDB, Express.js, React, and Node.js, and passionate about delivering innovative and scalable solutions.
+</p>
+
                 </div>
               </div>
               <div className="row">
@@ -156,10 +157,11 @@ const About: NextPage = () => {
                             <i className="fa fa-calendar" /> 2024 to 2026
                           </h6>
                           <h4 className="timeline-title">
-                          MCA (Master's of Compter Application)
-                          </h4>
+                                MCA (Master of Computer Application)
+                              </h4>
+
                           <p className="timeline-text">
-                          I pursue my master's degree from Khwaja Moinnuddin Chisthi Language University (Lucknow).
+                          I pursue my master&apos; degree from Khwaja Moinnuddin Chisthi Language University Lucknow.
                           </p>
                         </div>
                         {/* Timeline Item end */}
